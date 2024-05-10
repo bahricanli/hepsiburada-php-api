@@ -1,5 +1,5 @@
 {
-    "name": "ksmylmz/hepsiburada",
+    "name": "bahricanli/hepsiburada-php-api",
     "description": "Hepsiburada Entegrasyon pakedi",
     "keywords": ["hepsiburada","integration"],
     "license": "MIT",
@@ -7,6 +7,12 @@
         {
             "name": "Kasım YILMAZ",
             "email": "kasim-yilmaz@hotmail.com"
+        },
+        {
+            "name": "Bahri Meriç Canlı",
+            "email": "bahri@bahri.info",
+            "homepage": "https://www.bahri.info",
+            "role": "Developer"
         }
     ],
     "require": {
